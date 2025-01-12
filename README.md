@@ -1,3 +1,2 @@
 # stroll_project
-
-A new Flutter project.
+The task 1 of my interview
